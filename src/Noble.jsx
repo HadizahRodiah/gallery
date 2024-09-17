@@ -1,6 +1,6 @@
 import React from 'react'
 import Ima from './assets/Ima.jpg'
-import Imb from './assets/imb.jpg'
+import Imb from './assets/Imb.jpg'
 import Imc from './assets/Imc.jpg'
 import Imf from './assets/Imf.jpg'
 import Img from './assets/Img.jpg'
